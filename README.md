@@ -8,3 +8,8 @@ It's a web-based, plugin-free game based around the theme (Sound of a heart beat
 
 The game started out with the idea of the "ground" moving because of a heartbeat, towards the end the design changed away from the original theme and ended up being more earthquake centered.
 
+## Contributors
+Sidaroth - (Code/Design)
+Mandarinx - https://github.com/mandarinx (Code/Design)
+Vaffeldamen - https://github.com/Vaffeldamen (Art)
+
