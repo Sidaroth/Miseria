@@ -1,4 +1,4 @@
-Misera
+Miseria
 ===========
 
 This game was made in ~48 hours for Global Game Jam at Hamar 2013. 
