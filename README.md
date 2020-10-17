@@ -10,6 +10,8 @@ The game started out with the idea of the "ground" moving because of a heartbeat
 
 ## Contributors
 Sidaroth - (Code/Design)
+
 Mandarinx - https://github.com/mandarinx (Code/Design)
+
 Vaffeldamen - https://github.com/Vaffeldamen (Art)
 
